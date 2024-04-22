@@ -10,8 +10,3 @@ gsap.from('.des',{x:1100,delay:1 ,scrollTrigger :".verse"})
 gsap.from('.four',{opacity:0,delay :1.8, scrollTrigger : '.intro'})
 gsap.from('.pp',{rotation:-360,opacity:0,ease:'bounce-out',delay:1, scrollTrigger: '.intro' })
 
-// const scroll = new LocomotiveScroll({
-//     el: document.querySelector("#main"),
-//     smooth : true,
-//     multiplier : 1
-// });

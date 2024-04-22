@@ -2,7 +2,7 @@ body{
     margin: 0%;
 }
 div.one{
-    background-image: linear-gradient( rgba(29, 27, 27, 0.5), rgba(44, 41, 41, 0.5) ),url(7082437.jpg);
+    background-image: linear-gradient( rgba(29, 27, 27, 0.5), rgba(44, 41, 41, 0.5) ),url(images/7082437.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 100px 100px 200px 100px;
